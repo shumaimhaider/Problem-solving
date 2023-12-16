@@ -11,6 +11,6 @@ Welcome to the Problem Solving Questions Repository! This repository is a collec
 
 [ Remove Element](Array-Problems/remove-element.js)
 
-[ Remove Duplicates from Sorted Array](Array-Problems/remove-duplicates_from_array.js)
+[ Remove Duplicates from Sorted Array](Array-Problems/remove_duplicates_from_array.js)
 
    
