@@ -8,7 +8,9 @@ Welcome to the Problem Solving Questions Repository! This repository is a collec
 ## Array and String Manipulations
 
 [ Merge Two Arrays non decreasing order](Array-Problems/merge-array.js)
-[ Merge Two Arrays non decreasing order](Array-Problems/remove-element.js)
 
+[ Remove Element](Array-Problems/remove-element.js)
+
+[ Remove Duplicates from Sorted Array](Array-Problems/remove-duplicates_from_array.js)
 
    
