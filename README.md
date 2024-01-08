@@ -7,12 +7,12 @@ Welcome to the Problem Solving Questions Repository! This repository is a collec
 # Topics
 ## Array and String Manipulations
 
-[ Merge Two Arrays non decreasing order](Array-Problems/merge-array.js)
+[ Merge Two Arrays non decreasing order](Array-Problems/merge_array.js)
 
-[ Remove Element](Array-Problems/remove-element.js)
+[ Remove Element](Array-Problems/remove_element.js)
 
 [ Remove Duplicates from Sorted Array](Array-Problems/remove_duplicates_from_array.js)
 
 [ Majority Element](Array-Problems/majority_element.js)
 
-[Buy Sell Stock](Array-Problems/buy-sell-stock.js)
+[Buy Sell Stock](Array-Problems/buy_sell_stock.js)
