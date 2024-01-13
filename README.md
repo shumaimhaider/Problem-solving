@@ -16,3 +16,5 @@ Welcome to the Problem Solving Questions Repository! This repository is a collec
 [ Majority Element](Array-Problems/majority_element.js)
 
 [Buy Sell Stock](Array-Problems/buy_sell_stock.js)
+
+[Roman to Int](Array-Problems/buy_sell_stock.js)
