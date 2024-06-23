@@ -28,7 +28,7 @@ var decodeMessage = function(key, message) {
         hash.set(key[i], alphabets[i])
     }
 
-    /*iterate over the message and get the corropspoing value in hash map */    
+    /*iterate over the message and get the corresponding value in hash map */    
     for (let chr of message){
         result += hash.get(chr) || ' '
     }
