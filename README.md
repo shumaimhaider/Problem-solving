@@ -7,6 +7,6 @@ Welcome to the Problem Solving Questions Repository! This repository is a collec
 # Topics
 ## Array and String Manipulations
 
-[Brute force](Array-Problems)
+[Brute force](BruteForce)
 
 [Sliding Window](SlidingWindow)
