@@ -34,11 +34,13 @@ var uniqueMorseRepresentations = function (words) {
     const alphabets = 'abcdefghijklmnopqrstuvwxyz'
     const hash = new Map()
 
+    /* creating map for  transformations */
     for (let i = 0; i < alphabets.length; i++) {
         hash.set(alphabets[i], transformations[i])
     }
 
     let result = new Set()
+    /* Applying loop on words and than getting character of word to get the value from map */
     for (let word of words) {
         let morseCode = ''
         for (let chr of word) {
