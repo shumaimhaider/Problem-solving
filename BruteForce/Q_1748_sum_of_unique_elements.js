@@ -14,12 +14,11 @@ var sumOfUnique = function(nums) {
         }
     }
     
-    for(let[key, count] of hash){
+    for(let[key, count] of hash){  // calculating sum of unique elements
         if (count == 1){
             sum += key
         }
     }
     
     return sum
-    
 };
